@@ -11,6 +11,7 @@ Workshops
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
 * Barbara Hendrick
+* Ernesto Rodriguez <ernesto@tryolabs.com> https://github.com/ernestorx @ernestorx
 
 
 Cardiff Dev Workshop, 8th June 2013
